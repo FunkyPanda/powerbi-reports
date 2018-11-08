@@ -1,1 +1,1 @@
-*.pbix diff=word
+*.pbix -diff
